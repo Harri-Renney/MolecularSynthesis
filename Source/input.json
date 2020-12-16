@@ -1,0 +1,45 @@
+{
+  "molecule": [
+    {
+      "mass": 0.02,
+      "connections": [
+        2
+      ]
+    },
+    {
+      "mass": 2.2,
+      "connections": [
+        2
+      ]
+    },
+    {
+      "mass": 0.5,
+      "connections": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "mass": 1.2,
+      "connections": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "mass": 1.0,
+      "connections": [
+        3
+      ]
+    },
+    {
+      "mass": 0.7,
+      "connections": [
+        3
+      ]
+    }
+  ]
+
+}
