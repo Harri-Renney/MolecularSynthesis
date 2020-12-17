@@ -9,8 +9,8 @@
     <GROUP id="{D921E7C0-58AD-4AE8-6D35-F90FFE721EC3}" name="Source">
       <FILE id="GqhNzS" name="input.json" compile="0" resource="1" file="Source/input.json"/>
       <FILE id="UyDjhs" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
-      <FILE id="e7jwTK" name="BouncingBallWavetableDemo.h" compile="0" resource="0"
-            file="Source/BouncingBallWavetableDemo.h"/>
+      <FILE id="e7jwTK" name="MolecularSynthesis.h" compile="0" resource="0"
+            file="Source/MolecularSynthesis.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
